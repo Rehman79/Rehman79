@@ -2,7 +2,7 @@
 <h3 align="center">A passionate flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehman79&label=Profile%20views&color=0e75b6&style=flat" alt="rehman79" /> </p>
-<img align="right" alt="Coding" width="400" src='https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966' >
+<img align="right" alt="Coding" width="400" src='[https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw14Y_jeN-coi7TY5m8zhoz1&ust=1726025860275000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDntJr7uYgDFQAAAAAdAAAAABAE)' >
 
 - 🌱 I’m currently learning **Advanced flutter development**
 
