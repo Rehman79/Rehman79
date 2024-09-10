@@ -2,7 +2,7 @@
 <h3 align="center">A passionate flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehman79&label=Profile%20views&color=0e75b6&style=flat" alt="rehman79" /> </p>
-<img align="right" alt="Coding" width="400" src= >
+<!-- <img align="right" alt="Coding" width="400" src= > -->
 
 - 🌱 I’m currently learning **Advanced flutter development**
 
