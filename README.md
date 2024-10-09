@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced flutter development**
 
-- 💬 Ask me about **Flutter , Android, Dart**
+- 💬 Ask me about **Flutter, Android, Dart, Wordpress, State Management**
 
 - 📫 How to reach me **mattirana845@gmail.com**
 
