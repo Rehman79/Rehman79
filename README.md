@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehman79&label=Profile%20views&color=0e75b6&style=flat" alt="rehman79" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=2147483647&v=beta&t=77qfS1_SDRvCTpYp_5C4pyVrBj4Qwo-mvU7xjZ5gVtY" >
 
-- 🌱 I’m currently learning **Advanced flutter development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Flutter, Android, Dart, Wordpress, State Management**
 
