@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Flutter, Android, Dart, Wordpress, State Management**
+- 💬 Ask me about **Flutter, Android, Dart, System Design, Swift, State Management**
 
 - 📫 How to reach me **mattirana845@gmail.com**
 
